@@ -1,0 +1,15 @@
+{C:/Users/88697/Desktop/Meeting Room 5-20220524T013022Z-001/Meeting Room 5/Q2_1/tb_Encoder_Q2.sv} {1 {vlog -work work -sv {C:\Users\88697\Desktop\Meeting Room 5-20220524T013022Z-001\Meeting Room 5\Q2_1\tb_Encoder_Q2.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module testfixture_encoder
+
+Top level modules:
+	testfixture_encoder
+
+} {} {}} {C:/Users/88697/Desktop/Meeting Room 5-20220524T013022Z-001/Meeting Room 5/Q2_1/Q2_Encoder.v} {1 {vlog -work work {C:/Users/88697/Desktop/Meeting Room 5-20220524T013022Z-001/Meeting Room 5/Q2_1/Q2_Encoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LZ77_Encoder
+
+Top level modules:
+	LZ77_Encoder
+
+} {} {}}

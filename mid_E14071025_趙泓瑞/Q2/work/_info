@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\88697\Desktop\Q1
+vBOE
+Z1 !s100 OiXC;<>U]>So[2e8A7XI[2
+Z2 IM^D:ZCb4IeE<bCTg5^_UC3
+Z3 VREN2T[kz4cz5?Ii@a;[gP3
+Z4 dC:\Users\88697\Desktop\Q2
+Z5 w1649736890
+Z6 8C:/Users/88697/Desktop/Q2/BOE.v
+Z7 FC:/Users/88697/Desktop/Q2/BOE.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/88697/Desktop/Q2/BOE.v|
+Z10 o-work work -O0
+Z11 n@b@o@e
+!i10b 1
+!s85 0
+Z12 !s108 1649736900.093000
+Z13 !s107 C:/Users/88697/Desktop/Q2/BOE.v|
+!s101 -O0
+vtestfixture
+Z14 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z15 !s100 l96mQ[5451@c@WICl6PVi2
+Z16 I]]`H<J;1ZkdPOFP5;WmTc2
+Z17 VKBIIT=eCh7cJh[^JXBGX00
+Z18 !s105 BOE_tb_sv_unit
+S1
+R4
+Z19 w1649729859
+Z20 8C:/Users/88697/Desktop/Q2/BOE_tb.sv
+Z21 FC:/Users/88697/Desktop/Q2/BOE_tb.sv
+L0 7
+R8
+r1
+!s85 0
+31
+!s108 1649736900.148000
+!s107 C:/Users/88697/Desktop/Q2/BOE_tb.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|C:/Users/88697/Desktop/Q2/BOE_tb.sv|
+!s101 -O0
+Z23 o-work work -sv -O0

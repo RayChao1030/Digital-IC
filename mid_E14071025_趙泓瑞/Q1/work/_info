@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\88697\Desktop\encoder
+vFA
+Z1 !s100 iW6XD<PVjadkXOeAc:D1h0
+Z2 I:g]z7iBDaTAi_V[ii3>d@0
+Z3 V^Y3SJ=DJ4Omk>T_7^bPcU1
+Z4 dC:\Users\88697\Desktop\Q1
+Z5 w1649729167
+Z6 8C:/Users/88697/Desktop/Q1/FA.v
+Z7 FC:/Users/88697/Desktop/Q1/FA.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/88697/Desktop/Q1/FA.v|
+Z10 o-work work -O0
+n@f@a
+Z11 !s108 1649729619.333000
+Z12 !s107 C:/Users/88697/Desktop/Q1/FA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHA
+Z13 !s100 Qlj:Kd_MOnTOPKQBcUfj:3
+Z14 I5j[W9abegM6QJ5Da8_Ln22
+Z15 V@mI]`Ym_6XVJ@KQ?mmCX10
+R4
+R5
+Z16 8C:/Users/88697/Desktop/Q1/HA.v
+Z17 FC:/Users/88697/Desktop/Q1/HA.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/88697/Desktop/Q1/HA.v|
+R10
+n@h@a
+Z19 !s108 1649729619.387000
+Z20 !s107 C:/Users/88697/Desktop/Q1/HA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRCA
+Z21 InnmdLLOCLVnLF^mZfj_VH0
+Z22 VOmSCZPUR2D<^>>`^KIFC42
+R4
+Z23 w1649729615
+Z24 8C:/Users/88697/Desktop/Q1/RCA.v
+Z25 FC:/Users/88697/Desktop/Q1/RCA.v
+L0 1
+R8
+r1
+31
+Z26 !s90 -reportprogress|300|-work|work|C:/Users/88697/Desktop/Q1/RCA.v|
+R10
+Z27 n@r@c@a
+!i10b 1
+Z28 !s100 2KN^j>5cWWN]m14]Z>en42
+!s85 0
+Z29 !s108 1649729619.440000
+Z30 !s107 C:/Users/88697/Desktop/Q1/RCA.v|
+!s101 -O0
+vRCA_tb
+!i10b 1
+Z31 !s100 olLlaDL97?M<LCZN>ff7T2
+Z32 IiBfcXkA2EI@^5YLn[Fj`B2
+Z33 VXOJiG8o=FK5EjGY<Y>Gb^1
+R4
+R5
+Z34 8C:/Users/88697/Desktop/Q1/RCA_tb.v
+Z35 FC:/Users/88697/Desktop/Q1/RCA_tb.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1649729619.494000
+!s107 C:/Users/88697/Desktop/Q1/RCA_tb.v|
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/88697/Desktop/Q1/RCA_tb.v|
+!s101 -O0
+R10
+Z37 n@r@c@a_tb

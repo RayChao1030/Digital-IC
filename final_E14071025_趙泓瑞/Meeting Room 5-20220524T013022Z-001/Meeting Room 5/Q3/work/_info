@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\88697\Desktop\Meeting Room 5-20220524T013022Z-001\Meeting Room 5\Q2_2
+vLZ77_Encoder
+Z1 I`DEia^`LWPe:VcYZ[<_;g0
+Z2 VB3`en3M0:iYLH7KhS62fQ2
+Z3 dC:\Users\88697\Desktop\Meeting Room 5-20220524T013022Z-001\Meeting Room 5\Q3
+Z4 w1653365534
+Z5 8C:\Users\88697\Desktop\Meeting Room 5-20220524T013022Z-001\Meeting Room 5\Q3\Q3_Encoder.v
+Z6 FC:\Users\88697\Desktop\Meeting Room 5-20220524T013022Z-001\Meeting Room 5\Q3\Q3_Encoder.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:\Users\88697\Desktop\Meeting Room 5-20220524T013022Z-001\Meeting Room 5\Q3\Q3_Encoder.v|
+Z9 o-work work -O0
+Z10 n@l@z77_@encoder
+!i10b 1
+Z11 !s100 ?O3P9f80N>ZbIFDWzI0h82
+!s85 0
+Z12 !s108 1653365544.570000
+Z13 !s107 C:\Users\88697\Desktop\Meeting Room 5-20220524T013022Z-001\Meeting Room 5\Q3\Q3_Encoder.v|
+!s101 -O0
+vtestfixture_encoder
+Z14 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z15 !s100 4[^2^SWEITbI9VoJYaQF60
+Z16 IH7K`^GZ5H]Jl?hagMGdE20
+Z17 V=dz;:zCVO?^^hLmNTz5VD1
+Z18 !s105 tb_Encoder_Q3_sv_unit
+S1
+R3
+Z19 w1653355845
+Z20 8C:/Users/88697/Desktop/Meeting Room 5-20220524T013022Z-001/Meeting Room 5/Q3/tb_Encoder_Q3.sv
+Z21 FC:/Users/88697/Desktop/Meeting Room 5-20220524T013022Z-001/Meeting Room 5/Q3/tb_Encoder_Q3.sv
+L0 11
+R7
+r1
+!s85 0
+31
+!s108 1653365544.626000
+!s107 C:/Users/88697/Desktop/Meeting Room 5-20220524T013022Z-001/Meeting Room 5/Q3/tb_Encoder_Q3.sv|
+Z22 !s90 -reportprogress|300|-work|work|-sv|C:/Users/88697/Desktop/Meeting Room 5-20220524T013022Z-001/Meeting Room 5/Q3/tb_Encoder_Q3.sv|
+!s101 -O0
+Z23 o-work work -sv -O0

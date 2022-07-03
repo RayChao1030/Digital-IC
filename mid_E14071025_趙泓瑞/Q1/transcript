@@ -1,0 +1,383 @@
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/88697/Desktop/Q2/BOE_tb.sv line 216
+add wave -position insertpoint sim:/testfixture/u_BOE/*
+add wave -position insertpoint  \
+sim:/testfixture/u_BOE/sum
+restart
+# Loading sv_std.std
+# Loading work.testfixture
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/88697/Desktop/Q2/BOE_tb.sv line 216
+# Compile of BOE.v failed with 1 errors.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/88697/Desktop/Q2/BOE_tb.sv line 216
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/88697/Desktop/Q2/BOE_tb.sv line 216
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/88697/Desktop/Q2/BOE_tb.sv line 216
+# Compile of BOE.v was successful.
+# Compile of BOE_tb.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/88697/Desktop/Q2/BOE_tb.sv line 216
+# Load canceled
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+add wave -position insertpoint sim:/testfixture/u_BOE/*
+restart
+# Loading sv_std.std
+# Loading work.testfixture
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Users/88697/Desktop/Q2/BOE_tb.sv line 216
+# WARNING: No extended dataflow license exists
+# WARNING: No extended dataflow license exists
+vsim +notimingchecks -gui work.testfixture
+# vsim +notimingchecks -gui work.testfixture 
+# Loading sv_std.std
+# Loading work.testfixture
+# Loading work.BOE
+add wave -position insertpoint sim:/testfixture/u_BOE/*
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Series 1: FAIL
+# 
+# Series 2: FAIL
+# 
+# Series 3: FAIL
+# 
+# Series 4: FAIL
+# 
+# Series 5: FAIL
+# 
+# Series 6: FAIL
+# 
+# Series 7: FAIL
+# 
+# Series 8: FAIL
+# 
+# Series 9: FAIL
+# 
+# Series 10: FAIL
+# 
+# -------------------------------------------------
+# --          Stage 1 Simulation finish          --
+# --       There are 10 errors in stage 1!       --
+# -------------------------------------------------
+# --          Stage 2 Simulation finish          --
+# --       There are 10 errors in stage 2!       --
+# -------------------------------------------------
+# --          Stage 3 Simulation finish          --
+# --       There are 10 errors in stage 3!       --
+# -------------------------------------------------
+# ** Note: $finish    : C:/Users/88697/Desktop/Q2/BOE_tb.sv(216)
+#    Time: 6300 ns  Iteration: 1  Instance: /testfixture

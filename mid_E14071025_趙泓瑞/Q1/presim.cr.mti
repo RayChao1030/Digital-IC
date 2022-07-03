@@ -1,0 +1,29 @@
+C:/Users/88697/Desktop/Q1/HA.v {1 {vlog -work work C:/Users/88697/Desktop/Q1/HA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} C:/Users/88697/Desktop/Q1/RCA.v {1 {vlog -work work C:/Users/88697/Desktop/Q1/RCA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RCA
+
+Top level modules:
+	RCA
+
+} {} {}} C:/Users/88697/Desktop/Q1/RCA_tb.v {1 {vlog -work work C:/Users/88697/Desktop/Q1/RCA_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RCA_tb
+
+Top level modules:
+	RCA_tb
+
+} {} {}} C:/Users/88697/Desktop/Q1/FA.v {1 {vlog -work work C:/Users/88697/Desktop/Q1/FA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}
